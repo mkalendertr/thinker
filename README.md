@@ -9,9 +9,203 @@ Besides source codes of the project, we publish taxonomy represented for entity 
 
 | Parent Type | Type | WordNet 3.1 Mapping |
 | ------ | ------ | ------ |
-| animal | kuş | bird#1
-| Github | [plugins/github/README.md] [PlGh] |
-| Google Drive | [plugins/googledrive/README.md] [PlGd] |
-| OneDrive | [plugins/onedrive/README.md] [PlOd] |
-| Medium | [plugins/medium/README.md] [PlMe] |
-| Google Analytics | [plugins/googleanalytics/README.md] [PlGa] |
+|animal |  kuş |  bird#1
+|animal |  bitki |  plant#2
+|animal |  örümcek |  spider#1
+|animal |  memeli |  mammal#1
+|animal |  balık |  fish#1
+|animal |  böcek |  insect#1 
+|animal |  sürüngen |  reptile#1
+|animal |  köpek ırkı |  dog#1
+|animal |  yılan |  snake#1
+|animal |  primat |  primate#1
+|animal |  bakteri |  bacteria#1
+|animal |  biyoloji |  biology#1
+|concept |  etnik grup |  ethnic group#1
+|concept |  dil |  language#1
+|concept |  kraliyet |  kingdom#1
+|concept |  hastalık |  disease#1
+|concept |  bayrak |  flag#1
+|concept |  mitoloji |  mythology#1
+|concept |  marş |  anthem#1
+|concept |  dil ailesi |  language#1
+|concept |  anatomi |  anatomy#2
+|concept |  ödül |  award#3
+|concept |  islam |  islam#1
+|concept |  harf |  letter#2
+|concept |  programlama dili |  programming language#1
+|concept |  renk |  color#1
+|concept |  kimya |  chemistry#1
+|concept |  sayı |  number#5
+|concept |  fizik |  physics#2
+|concept |  hazır gıda |  food#2
+|concept |  matematik |  mathematics#1
+|creative work |  film |  movie#1
+|creative work |  albüm |  album#1
+|creative work |  tekli |  single#2
+|creative work |  kitap |  book#1
+|creative work |  televizyon |  television#1
+|creative work |  şarkı |  song#1
+|creative work |  yazılım |  software#1
+|creative work |  video oyunu |  video game#1
+|creative work |  tv bölüm |  episode#1
+|creative work |  opera |  opera#1
+|creative work |  oyun |  game#1
+|creative work |  doctor who bölüm |  episode#1
+|creative work |  single |  song#1
+|creative work |  işletim sistemi |  operating system#1
+|creative work |  sure |  prayer#4
+|creative work |  televizyon sezonu |  season#1
+|creative work |  müzik türü |  music genre#1
+|creative work |  öykü |  story#1
+|creative work |  dizi |  episode#1
+|creative work |  prison break bölümü |  episode#1
+|creative work |  tiyatro oyunu |  play#1
+|creative work |  sanatçı diskografisi |  discography#1
+|creative work |  roman |  novel#1
+|creative work |  simpsonlar bölümü |  episode#1
+|creative work |  sanat eseri |  artwork#1
+|creative work |  edebiyat |  literature#1 
+|creative work |  müzik |  music#1
+|creative work |  lost |  serial#1
+|creative work |  lost karakteri |  
+|creative work |  seri |  serial#1
+|event |  savaş |  war#1
+|event |  futbol maçı |  match#2
+|event |  futbol kulübü sezonu |  season#1
+|event |  uluslararası futbol turnuvası |  tournament#1
+|event |  futbol ligi sezonu |  season#1
+|event |  futbol turnuvası |  tournament#1
+|event |  antlaşma |  agreement#1
+|event |  sivillere karşı saldırı |  attack#1
+|event |  seçim |  election#1
+|event |  konser turnesi |  tour#1
+|event |  eurovision |  contest#1
+|event |  deprem |  earthquake#1
+|event |  nba draft |  
+|event |  olimpiyatlar |  Olympics#1
+|event |  bayram |  holiday#1
+|event |  parlamento |  parliament#1
+|event |  spor derbisi |  
+|event |  olimpiyatlarda etkinlik |  Olympics#1
+|event |  spor ligi |  league#1
+|event |  festival |  festival#1
+|event |  kral tv vmö |  award#2
+|location |  yerleşim |  placement#3
+|location |  türkiye köy |  village#1
+|location |  portekiz bucak |  district#1
+|location |  almanya yerleşim yeri |  placement#3
+|location |  türkiye ilçe |  county#1 
+|location |  eski ülke |  country#1
+|location |  portekiz belediye |  municipality#1 
+|location |  ülke |  county#1 
+|location |  nehir |  river#1
+|location |  göl |  lake#1
+|location |  eski idari bölüm |  
+|location |  italya il |  city#1
+|location |  ada |  island#1
+|location |  türkiye belde |  town#1
+|location |  iran  köy |  village#1
+|location |  italya belde |  town#1
+|location |  koruma alanı |  
+|location |  dağ |  mountain#1
+|location |  türkiye il |  city#1
+|location |  abd eyalet |  state#1
+|location |  il |  city#1
+|location |  şehir |  city#1
+|location |  türkiye mahalle |  vicinity#1
+|location |  cadde |  avenue#2
+|location |  italya komün |  commune#1
+|location |  uydu |  satellite#1
+|location |  türkiye |  Turkey#2
+|location |  ilçe |  district#1
+|location |  bulgaristan il |  city#1
+|location |  çin eyalet |  state#1
+|location |  ukrayna idari birimi |  administrative unit#1
+|location |  kanton |  canton#2
+|object |  otomobil |  automobile#1
+|object |  ateşli silah |  firearm#1
+|object |  uçak |  airplane#1
+|object |  gemi |  ship#1
+|object |  arma |  rigging#1
+|object |  cep telefonu |  cell phone#1 
+|object |  amfibi |  amphibian#3
+|object |  para |  money#1
+|object |  uzay aracı |  spacecraft#1
+|organization |  futbol kulübü |  football team#1
+|organization |  şirket |  company#1
+|organization |  tv kanalı |  channel#7
+|organization |  üniversite |  university#1
+|organization |  kuruluş |  establishment#1
+|organization |  siyasi parti |  political party#1
+|organization |  gazete |  newspaper#1
+|organization |  dergi |  magazine#1
+|organization |  millî futbol takımı |  
+|organization |  website |  website#1
+|organization |  basketbol kulübü |  basketball team#1
+|organization |  futbol ligi |  football league#1
+|organization |  radyo istasyonu |  radio station#1
+|organization |  milli futbol cemiyeti |  association#1 
+|organization |  rusya federasyonu idari birimi |  administrative unit#1
+|organization |  silahlı kuvvet |  armed forces#1
+|organization |  havayolları |  airline#2
+|organization |  hükümet kurumu |  institution#1
+|organization |  basketbol ligi |  basketball league#1
+|organization |  voleybol kulübü |  team#1
+|organization |  azerbaycan rayon |  
+|organization |  siyasi makam |  agency#1
+|organization |  nba takımı |  team#1
+|organization |  plak şirketi |  record company#1
+|organization |  bm |  
+|organization |  telekomünikasyon şirketi |  company#1
+|organization |  basketbol |  basketball#1
+|organization |  sivil toplum kuruluşu |  nongovernmental organization#1
+|person |  futbolcu |  football player#1
+|person |  müzik sanatçısı |  musician#2
+|person |  kişi |  person#1
+|person |  oyuncu |  actor#1
+|person |  makam sahibi |  authority#2
+|person |  yazar |  writer#1
+|person |  bilim adamı |  scientist#1
+|person |  basketbolcu |  basketball player#1
+|person |  asker |  soldier#1
+|person |  hükümdar |  monarch#1
+|person |  sanatçı |  artist#1
+|person |  porno yıldızı |  
+|person |  sporcu |  athlete#1
+|person |  filozof |  philosopher#1
+|person |  kurgusal karakter |  
+|person |  tenis sporcu |  
+|person |  çizgi roman karakteri |  fictional character#1
+|person |  güreşçi |  wrestler#1
+|person |  manken |  model#8
+|person |  sunucu |  presenter#1
+|person |  buz patencisi |  skater#1
+|person |  voleybolcu |  volleyball player#1
+|person |  karakter |  fictional character#1
+|person |  hakem |  referee#1
+|person |  yıldız savaşları karakteri |  fictional character#1
+|person |  mimar |  architect#1
+|person |  bisikletçi |  cyclist#1
+|person |  doctor who karakteri |  fictional character#1
+|person |  müzik grubu |  band#2
+|person |  harry potter karakteri |  fictional character#1
+|person |  avrupa yakası karakteri |  fictional character#1
+|person |  hanedan |  dynasty#1
+|person |  insan |  human#1 
+|physical object |  galaksi |  galaxy#3
+|physical object |  takımyıldız |  constellation#2
+|physical object |  güneşdışı gezegen |  planet#1
+|structure |  stadyum |  stadium#1
+|structure |  havalimanı |  airport#1
+|structure |  dini yapı |  place of worship#1
+|structure |  askeri birim |  military unit#1
+|structure |  baraj |  dam#1
+|structure |  yapı |  structure#1
+|structure |  okul |  school#1
+|structure |  müze |  museum#1
+|structure |  yüksek yapı |  structure#1
+|structure |  yol |  road#1
+|structure |  fakülte |  faculty#2
+|structure |  köprü |  bridge#1
+|structure |  askeri yapı |  structure#1
