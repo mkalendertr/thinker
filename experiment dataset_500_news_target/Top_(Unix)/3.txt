@@ -1,0 +1,2 @@
+Top komutu linux işletim sisteminde anlık olarak sunucu durumunu izleyebileceğiniz bir komuttur. Top komutuyla kullanılabilen parametreler aşağıdaki gibidir.
+https://www.netiyi.com/kb/ssh-top-komutu-parametreleri.html

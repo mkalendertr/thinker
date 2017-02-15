@@ -1,0 +1,33 @@
+Saatlerde su geçirmezlik anlatımında kullanılan ifadelerin ne anlama geldiği, genelde net olarak anlaşılmamaktadır. Su geçirmezlik seviyesi “50 metre” olarak ifade edilen saatle 50 metre suya dalınabilir sanılmaktadır ki kesinlikle yanlış bir kanıdır.
+
+İsviçre'de üretilen su geçirmez saatlerin tümü basınç testlerinden geçirilmektedir. Saatin kasasının geçirildiği “Yüksek Hava Basıncına Direnç”, “Yüksek Su Basıncına Direnç” ve “Sıcaklık ve Mekanik Gerilime Karşı Direnç” testlerini başarıyla tamamlayan saatler “Su Geçirmez” (Water-resistant) saatler olarak tanımlanmaktadır.
+
+Kasalarda bulunan su geçirmezlik ibareleri şu şekilde açıklanabilir:
+
+1 ATM veya 1 BAR (10m veya 33ft)
+Her günlük kullanım için elverişlidir fakat dikkatli olunması gereken bir seviyedir, yağmur ve su sıçramalarına dayanıklıdır. El yıkmada dikkatli olunması gerekir, fakat yüzmeye elverişli değildir.
+
+3 ATM veya 3 BAR (30m veya 100ft)
+Her günlük kullanım için gerekli dayanıklılık seviyesidir. Yağmur gibi hafif bir su sıçramasına veya el yıkamaya dayanıklıdır. Ancak yüzmeye elverişli değildir.
+
+5 ATM veya 3 BAR (50m veya 165ft)
+Her günlük kullanıma, yüzmeye, duşa uygun ayrıca skiing ve paraşüt sprlarına dayanıklılık seviyesidir, ancak dalmaya veya su sporlarına uygun değildir.
+
+10 ATM veya 10 BAR (100m veya 330ft)
+Her günlük kullanım ve havuzda yüzmeye uygun dayanıklılık seviyesidir. Tramplenden atlamaya, yüksek basınca veya su sporlarına uygun değildir.
+
+20 ATM veya 20 BAR (200m veya 660ft)
+Tramplenden atlama, yüksek basınç ve su sporlarına dayanıklılık için gereken en düşük basınç seviyesidir.
+
+30 ATM veya 30 BAR (300m veya 984ft)
+Her günlük kullanım haricinde scuba dalışına ve 30 metre derinliğe kadar basınca dayanlıklı saatleridir.
+
+50 ATM veya 50 BAR (500m veya 1640ft)
+Her günlük kullanım haricinde scuba dalışına ve 50 metre derinliğe kadar basınca dayanlıklı saatleridir.
+
+100 ATM veya 100 BAR (1000m veya 3280ft)
+Her günlük kullanım haricinde derindeniz dalışlarına elverişlidir.
+
+200 ATM veya 200 BAR (2000m veya 6562ft)
+Her günlük kullanım haricinde profesyönel dalgıçlık için elverişlidirler.
+http://blog.saatci.com/saatlerde-su-gecirmezlik-water-resistant/

@@ -1,0 +1,6 @@
+Tekir'in geliştiricisi Uygun teknoloji ile konuştuk.
+Bu bölümde Açık Kaynak Felsefesini ülkemizde en iyi gerçekleştiren firmalardan biri olan Uygun Teknoloji ile birlikteyiz. Tekir projesinin geliştiricisi olan Uygun teknoloji daha bir çok alanda faaliyetlerine devam etmektedir. kodcu.com olarak bu değerli firmaya  Tekir nedir ? Nasıl ve hangi teknolojiler kullanılarak geliştirildi?  diye sorduk. Uygun Teknoloji'nin kurucusu olan Hakan Uygun'a katkılarından dolayı teşekkür ederiz.
+Hakan Uygun : 2006 yılında İstanbul'da kurulan Uygun Teknoloji, kurulduğu günden bu yana müşterilerine esnek ve son teknoloji ürünü yazılım çözümleri sunmayı amaçlamaktadır. Temel olarak özgür yazılım ürünleri kullanmak ve geliştirmek hedefinde olan Uygun Teknoloji, Linux ve Java teknolojilerine odaklanmış bulunmaktadır.
+
+Uygun Teknoloji geliştirmekte olduğu özgür yazılım ürünü ön muhasebe uygulaması Tekir Ticari Otomasyon (www.tekir.com.tr ) yanında, müşterileri için özel yazılım çözümleri üretmekte, bu yazılımların çalışacağı altyapı sistemlerini kurmakta, kurulu sistemleri yönetmekte ve bakımlarını yapmakta, aynı zamanda kurumların kullandıkları sistemler için eğitim, danışmanlık ve destek hizmetlerini de sunmaktadır.
+http://kodcu.com/2011/06/tekirin-gelistiricisi-uygun-teknoloji-ile-konustuk/

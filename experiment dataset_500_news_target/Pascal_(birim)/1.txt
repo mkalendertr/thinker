@@ -1,0 +1,5 @@
+ Sıvılar akışkan özeliktedirler ve sıvı molekülleri arasındaki boşluk çok azdır. Bu nedenle sıvılar sıkıştırılamaz kabul edilirler.
+ Katı haldeki maddelerde, maddeye uygulanan basınç kuvveti uygulanma doğrultusunda aynen iletildiği halde basınç her zaman aynen iletilmeyebilir. (Katı maddenin her iki yüzeyinin büyüklüğü aynı olmadığı zaman iletilmez).
+ Sıvı haldeki maddelerde, maddeye uygulanan basınç her noktaya aynen iletildiği halde basınç kuvveti her zaman aynen iletilmeyebilir. (Sıvı haldeki maddenin bulunduğu kabın yüzeylerinin büyüklüğü aynı olmadığı zaman iletilmez).
+ Kapalı bir kapta bulunan sıvının herhangi bir noktasında oluşturulan basın. Sıvı tarafından sıvının dokunduğu bütün yüzeylere dik olarak aynen iletilir. Bu prensibe Pascal denir. 
+ http://www.fenokulu.net/portal/Sayfa.php?Git=KonuKategorileri&Sayfa=KonuBaslikListesi&baslikid=148&KonuID=698

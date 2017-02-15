@@ -1,0 +1,3 @@
+Teknolojinin ilerlemesiyle hızlanan bilgisayarların en büyük problemi haline gelen sıcaklık, Türkiye'de geliştirilen bir sıvı sayesinde problem olmaktan çıkıyor.
+Gelişen teknoloji ile performansları arttırılan bilgisayarların ve server (sunucu bilgisayar) sistemlerinin en büyük problemi sıcaklık ve soğutma yöntemleri. Sıcaklığı artan bilgisayarlar genelde klasik olarak hava ile soğutuluyor. Yıllardır kullanılan bu klasik yöntem bilgisayarların içerisinde çok miktarda tozun girmesine, cihazı soğutmak için sürekli enerji tüketimine, fanların tozdan dolayı aşırı ses çıkarmasına, sıcaklık yüzünden cihazın tam performanslı çalışmamasına sebep oluyor.
+http://www.sabah.com.tr/teknoloji/2014/10/06/su-icerisinde-calisan-bilgisayar

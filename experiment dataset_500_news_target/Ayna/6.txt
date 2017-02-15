@@ -1,0 +1,8 @@
+Aynanın Gerçek Rengi Nedir?
+
+Işık bir cisimle etkileştiğinde cisim tarafından soğurulabilir ya da yansıtılabilir. Bir cismin hangi renkte göründüğü cisimden yansıyan ışığın hangi dalga boyunda olduğuyla ilişkilidir. Örneğin yeşil renkte bir yazı tahtası yeşil ışığı yansıtırken diğer dalga boylarındaki ışığı soğurur. Eğer bir cisim yüzeyine çarpan bütün dalga boylarındaki ışığı yansıtıyorsa beyaz görünür.
+
+Ancak aynalar için durum biraz daha farklıdır. Karşısına koyulan cisim hangi renkteyse ayna o renkte görünür. Çünkü aynalar yüzeylerine çarpan ışığı aynı şekilde yansıtır, yani aynaya çarpan ışığın gelme ve yansıma açısı aynıdır. Kusursuz bir aynanın yüzeyine çarpan ışığın tamamını yansıtması gerekir. Dolayısıyla aynaların gerçek renginin beyaz olması gerekir.
+
+Günlük hayatta yaygın olarak kullandığımız, bilimsel ya da teknolojik bir amaçla (örneğin teleskoplarda, güneş enerjisi sistemlerinde) kullanılmayan aynalar düz bir camın arka yüzeyinin gümüş parçacıklarıyla ince bir film şeklinde kaplanmasıyla üretiliyor. American Journal of Physics dergisinde yayımlanan araştırma bu tür aynaların 510 nanometre dalga boyundaki ışığı diğer dalga boylarına göre daha fazla yansıttığını gösteriyor. Bu nedenle günlük hayatımızda yaygın olarak kullandığımız aynaların soluk yeşil renkte olduğu söylenebilir.
+http://www.bilimgenc.tubitak.gov.tr/makale/aynanin-gercek-rengi-nedir

@@ -1,0 +1,4 @@
+Hava basınç göstergesi hava tankındaki hava basıncını gösterir. İkaz lambası yandığında aracın hemen güvenli bir yerde durdurulması gerekir. Rezervuar/Tank basıncı yetersizse fren devresinde veya el freni devresinde hava basıncının düşük olduğunu belirten uyarı lambası yanar. El freni indirildiğinde üç ikaz/uyarı lambası sönünceye kadar yola çıkılmamalıdır.
+
+Önemli Not I: Hava basıncı seviyesi 7 bar değerinin altına düşerse uyarı lambası yanar ve sesli uyarı devreye girer. Yeterli hava basıncı sağlanana kadar araç hareket ettirilemez.
+http://www.otoguncel.com/teknik-bilgiler/hava-basinc-gostergesi-fren-devresi-i-basinc-gostergesi-fren-devresi-ii-basinc-gostergesi-gorevi-nedir/

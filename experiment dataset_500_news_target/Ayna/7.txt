@@ -1,0 +1,49 @@
+Düz Aynada Görüntü
+
+Deneyin  Amacı: Düz aynada görüntüyü ve özelliklerini kavrayabilmek.
+
+Düşünce Soruları?
+1. Aynadan uzaklaştıkça görüntünüz nasıl değişir?
+2. Aynaya yaklaştıkça görüntünüz nasıl değişir?
+3. Aynada boyumuzun tamamını görebilmemiz için aynanın boyu ne kadar olmalıdır?
+4. Alışveriş merkezlerinde düz aynayı niçin çok fazla kullanırlar?
+
+Araç ve Gereçler: Döküm ayak, bünzen kıskacı , bağlama parçası, plastik levha, cam levha, tabanı kesik şişe, mum (2 adet).
+                                                                                        
+
+ 
+
+Uygulama:
+
+1. Döküm ayağa statif çubuğu tutturunuz.
+
+2. Bünzen kıskacı bağlama parçası ile statif çubuğa tutturunuz.
+
+3. Cam levhayı bünzen kıskacı yardımıyla masa üzerinde dik bir konumda durdurunuz.
+
+4. Cam levhanın arka tarafına tabanı kesik şişeye oturtunuz.
+
+5. Cam levhanın ön kısmına koyduğunuz mumu yakınız ve mumun yerini ayarlayarak mumun görüntüsünü şişenin içinde görmeye çalışınız.
+6. Şişe yerine aynı boyda ikinci bir mumla deneyi tekrarlayınız. İkinci mumu yanıyormuş gibi gördünüz mü?
+
+ 
+
+Deneyden çıkarım: 
+
+Yanan mumdan çıkan ışınlar düz aynaya (cam levha) çarparak yansırlar ve gözümüze uzantıların kesiştiği noktadan geliyormuş gibi görünürler.
+
+Bu kesişme noktaları, mumun görüntüsünü verir. Bu durumda oluşan görüntü, gözümüzün aldanmasından başka bir şey değildir. Böyle görüntülere zahiri (yalancı) görüntü denir.
+
+Mumun cam levhaya olan uzaklığı ile görüntüsünün cam levhaya uzaklığını ölçtüğünüzde her iki uzaklığında birbirine eşit olduğunu görürsünüz. Aynı zamanda görüntünün boyu ile cismin boyu birbirine eşittir.
+
+Bilgilenelim:
+
+Işığı yansıtan yüzeyi düzlem olan aynalara düz ayna denir. Düz aynanın boyutları değişebilir. Boyut büyüdükçe aldığı görüntünün büyüklüğü artar. Bir çok alışveriş merkezinde fiziksel mekanını büyük ve aydınlık gözükmesi için düzlem aynalar kullanılır. 
+
+Düz aynada görüntünün özellikleri;
+
+1. Düz aynalarda görüntünün boyu ile cismin boyu birbirine eşittir.
+2. Görüntünün düz aynaya olan uzaklığı ile cismin aynaya olan uzaklığı birbirine eşittir.
+3. Düz aynalarda oluşan görüntü zahiri (yalancı) görüntüdür. Yani görüntü aynanın içindedir, ekran üzerine alınamaz.
+ 
+http://www.fencebilim.com/fen/deneyler/isik/isik15.html

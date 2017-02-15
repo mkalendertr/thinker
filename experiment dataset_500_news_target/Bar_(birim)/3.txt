@@ -1,0 +1,10 @@
+Bu yazımızda otomobil lastik hava basınçları nasıl olmalı sorusunu yanıtlayacağız. Sıfır araç alanlar araçla birlikle kullanım kitapçığını da alırlar. bu kitapçık içinde aracın lastik hava basıncı ne kadar olması gerektiği yazar. Kitapçık yoksa bile depo kapak içi veya şöför kapı arası gibi yerlerde de bu ve bunun gibi birkaç bilgi bulunur.
+
+Türkiyede genellikle psi değeri kullanılır. Bazı araçlarda bu bilgi bar olarak yazar. Lastiğe hava basılacağı zaman barı psi a çevirmek gerekir.
+
+1 bar kaç psi eder peki? 1 bar 14.50 pis dır. Yani araç kapı içerisinde 2,2 bar yazıyorsa bunu psi değeriyle çarparız ve yaklaşık olarak 32psi a denk gelir. Lastiklerin dördünede aynı değerde hava basmalıyız.
+
+Düşük basıncın zararları;
+
+Lastiklerde düşük hava basıncı otomobilin dengesizleşmesine sebep olacaktır. Aynı zamanda yakıt tüketimi arttırarak cebinize zarar verir. Önerilenlerden daha düşük basınçlara sahip lastiklerde patlama riski artacağından yoldan çıkartma ve kazaya neden olabilir.
+http://www.arabatutkum.com/Hbr-210-Lastik-Hava-Basinci-Nasil-Kontrol-Edilir-ve-Hava-Oranlari.html

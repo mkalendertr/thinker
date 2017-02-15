@@ -1,0 +1,4 @@
+Tekir Ticari Otomasyon.
+Tekir, açık kaynak kodlu ve özgür bir Ön Muhasebe ve Ticari Otomasyon yazılımıdır. Yazılım LGPL lisansı ile ücretsiz kullanılabilmektedir.
+Kullanımının kolay olması ve kurulum maliyetinin azaltılması amacıyla web arayüzü kullanılarak geliştirilen bir yazılımdır. Tekir'in kendisinin özgür yazılım olmasının yanısıra geliştirme ve çalışma ortamı ihtiyaçları için de özgür yazılım ürünleri tercih edilmiştir. Java ile geliştirilen Tekir bu sayede platform bağımsız olarak Windows, Linux gibi farklı sistemlerde aynı şekilde çalışabilmektedir.
+http://uygunteknoloji.com/tr/index.php

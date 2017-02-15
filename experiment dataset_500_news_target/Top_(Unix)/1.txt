@@ -1,0 +1,3 @@
+Komut satırı araçları, herhangi bir bilgisayar kullanıcısının günlük rutin vazgeçilmez bir parçasıdır. Grafik Arabirim (GUI) muazzam işlevsellik sunar ancak komut satırının yerini alamaz. Grafik Arabirimde, gerçekten tek seferde kağıt üzerine herşeyi koyamazsınız, daha iyi ortaya çıkarmak için kullanabileceğiniz birçok terminal komutu vardır. Buradan başlayabilirsiniz.İşte 10 Komut satırı araçları için bir liste!
+Top komutu size her programın ne kadar sistem kaynaklarını kullandığını gösterir ve sisteminizde çalışan programların bir listesini verir.
+http://www.pardus.net.tr/denemeniz-gereken-10-kullanisli-linux-komutu/

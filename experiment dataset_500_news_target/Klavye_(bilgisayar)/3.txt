@@ -1,0 +1,6 @@
+Kurulum ve kullanım
+
+İlk kurulum için bir Wi-Fi bağlantısına ihtiyacınız var, ayrıca elinizin altında mutlaka bir mouse ve klavye olmalı. Kablosuz olursa daha iyi. Değilse ya bir USB çoğaltıcı takmalı veya dönüşümlü kullanmalısınız. Kurulum aşamasında kişisel bilgilerinizi girmeniz ve Wi-Fi şifrenizi yazmanız gerekiyor.
+
+Her ne kadar cihaz tak çalıştır özelliğine sahip olsa da ilk yükleme ve güncellemelerin yapılması en az 20 dakikanızı alıyor. Sonunda Windows 10 tabanlı bilgisayarınız hazır. Eğer Android veya iOS cihazınız varsa kurulumdan sonra Intel Remote Keyboard uygulamasını indirin. Böylece Intel Compute Stick'le kullanabileceğiniz sanal bir klavyeye sahip oluyorsunuz.
+http://www.zaman.com.tr/_bu-cihaz-televizyonu-bilgisayara-donusturuyor_2334896.html

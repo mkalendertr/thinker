@@ -1,0 +1,10 @@
+Dümenler pozitif hareketli ya da çalışmanın türüne göre pasif olabilirler. Pasif
+olabildikleri gibi yarı dengeli ya da dengeli yapılabilirler.
+Dümenler alabandadan diğer alabandaya aşağıda sıralanan biçimlerden biri yardımı ile
+alınabilirler:
+Halatlı bir dümen yekesi donanımı
+Kadran çalıştırma ve dişli donanımı
+Dümen üzerine donatılmış dümen makinesi ile çalıştırma
+Vida türünde dümen donanımı
+Hidrolik donanım
+http://www.megep.meb.gov.tr/mte_program_modul/moduller_pdf/Gemi%20Makinesiyle%20Yol%20Vermek%20Ve%20Yol%20Kesme.pdf

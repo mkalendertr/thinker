@@ -1,0 +1,9 @@
+Sunucu pazarı finanstan besleniyor.
+Sunucu pazarı finanstan besleniyor Araştırma kurumu Gartner, küresel sunucu pazarına yönelik raporunu açıkladı. Buna göre 2006 yılı içinde dünyada 52.6 milyar dolar değerinde sunucu satıldı.
+
+Sunucu pazarının en büyük müşterisi %25.1 pay ile bankacılık ve finans sektörü oldu. Uzun yıllardır bankacılık sektörünün en büyük BT sağlayıcısı olan IBM, %44.6 payı ile geçtiğimiz yılın bu sektördeki sunucu pazarı lideri oldu.
+ 
+IBM Türk Bankacılık, Telekomünikasyon ve Kamu Sektörleri Birim Müdürü Gülseli Karadere, yaptığı açıklamasında, Bankacılık, IBM'in geleneksel olarak çok ağırlık verdiği sektörlerin başında geliyor. Ana bilgisayar sistemleri ve yüksek kapasiteli Sistem z gibi sunucularımızla Türkiye'de de önemli bir pazara sahibiz. Sistem z ailesi,  uzun yıllardan beri kendini yenileyerek ve geliştirerek sürekliliğini kanıtlamış hep yenilikçi olan büyük sistem sunuculardır. Donanım pazarındaki liderliğimizin Gartner tarafından da tescil edilmesi memmuniyet verici. dedi.
+ 
+Rapora göre IBM, küresel finans sektöründeki müşterilerine 2006 yılı içerisinde 5.9 milyar dolarlık sunucu satışı gerçekleştirdi. Finans sektöründeki sunucu satışlarının yıldan yıla %3.2, IBM'in payının ise %4.7 arttığının belirtildiği raporda, sektörün ikincisinin %26.6 payla Hewlett-Packard, üçüncüsünün ise %9.2 payla Sun Microsystems olduğu açıklanıyor. Sunucu pazarına genel olarak bakıldığında ise en çok hacim yaratan sektörlerde bankacılığı %13.5 ile telekomünikasyon ve %11.5 ile kamu izliyor.
+ http://www.hurriyet.com.tr/teknoloji/6304361.asp

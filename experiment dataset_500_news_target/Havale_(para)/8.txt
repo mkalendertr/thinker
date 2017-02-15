@@ -1,0 +1,31 @@
+Banka Havalesi – İade Talebi
+Açıklamasız olarak banka havalesi ile gönderilen paranın iadesi; havalenin hukuk sistemimizdeki anlamı, ispat yükünün hangi tarafta olduğu ve eğer davalının ikrarı mevcutsa ikrarın niteliği yönlerinden incelenmesi gereken bir konudur.
+
+Banka havalesi ile gönderilen paranın karşı tarafa borç olarak gönderildiği iddiası parayı gönderen tarafça ispatlanmak zorundadır.
+
+Yazımızda havale açıklamasına “geri ödenmek üzere”, “borç vasfındadır” vs. açıklamaların yazılmadığı ve paranın açıklamasız veya “………… tarafından gönderilen” gibi havalenin niteliğini belirtmeyen açıklamalar ile gönderildiği durumlarda geri alınması koşullarına kısaca değinilecektir.
+
+Günümüz koşullarında banka aracılığı ile gerçekleştirilen ödemeler hem güvenilir hem de zahmetsiz bir yol olması sebebiyle elden ödeme yöntemine göre daha sık tercih edilmektedir. Ancak havale gerçekleştirilirken açıklama kısmı genellikle dikkatlice doldurulmamakta, taraflar bu sebeple mağdur olabilmektedir.
+
+Yargıtay'a göre banka havalesi borç ödeme amacıyla gerçekleştirilir ve aksinin ispatı yükümlülüğü havaleyi gerçekleştiren tarafa düşer. “Banka dekontunda paranın gönderiliş nedeni ile ilgili bir açıklamanın bulunmadığı hallerde, paranın mevcut bir borcun ödenmesi için gönderildiğinin, kabulü gerekir” ( Yargıtay 13. Hukuk Dairesi E. 2005/11882 K. 2005/15157 T. 13.10.2005) 
+
+Banka havalesinin iadesi talebi ile açılan davalarda hukuki çözüm ikrarın niteliği ve bölünüp bölünemeyeceği konusunda düğümlenmektedir.
+
+İkrar yapıldığı yer, kapsamı ve içeriği itibariyle çeşitlere ayrılmaktadır.
+
+Yapıldığı yere göre mahkeme dışı veya mahkeme içi ikrardan söz edilir. Mahkeme dışı ikrar takdiri, mahkeme içi ikrar ise kesin delil niteliğindedir.
+
+Kapsam yönünden, ikrar, çekişmeli olan maddi vakıanın tamamını veya belli bir kesimini kapsayabilir. İlkinde tam, ikincisinde ise kısmi ikrar söz konusudur.
+
+İçeriği itibariyle ikrar ya basit ( adi ), ya vasıflı ( mevsuf ) ya da bileşik ( mürekkep ) nitelikte olabilir. Vasıflı ikrara, gerekçeli inkar da denilmektedir.
+
+Basit ( adi ) ikrar, karşı tarafça ileri sürülen bir vakıanın doğru olduğunun, herhangi bir kayıt veya şart bildirilmeksizin kabul edilmesidir. Basit ikrarda, onun konusunu oluşturan vakıalar artık tartışmalı olmaktan çıkarlar; dolayısıyla bunların ayrıca kanıtlanmasına gerek kalmaz.
+
+Vasıflı ikrarda, ( ki buna gerekçeli inkar da denilmektedir ) karşı tarafın ileri sürdüğü maddi vakıanın varlığı kabul edilmekle birlikte, onun hukuki niteliğinin ( vasfının ) ileri sürülenden başka olduğu bildirilir. Örneğin; Davalı davacıdan 1000 TL aldığını ikrar eder,fakat bu parayı ödünç olarak değil,hibe olarak aldığını bildirmesi halinde olduğu gibi vasıflı ikrar bölünemeyeceğinden, davacı iddiasını, yani parayı ödünç verdiğini kanıtlamalıdır.
+
+Bileşik ( mürekkep ) ikrarda ise, bir tarafın ileri sürdüğü vakıa karşı tarafça bütünüyle ikrar edilmekle birlikte, ikrara bu vakıadan çıkan hukuki sonucu hükümden düşüren ve bu ikrar edilen vakıanın doğumu ile ilgili bulunmayan başka bir vakıa ekleyerek, ya ikrar edilen vakıanın hukuksal sonuçlarının doğmasını engeller ya da onu hükümsüz kılar. Bileşik ikrar, ikrara konu olan vakıa ile, ona eklenen vakıa arasında bir bağlantı bulunup bulunmamasına göre, bağlantılı bileşik ikrar ve bağlantısız bileşik ikrar olarak ikiye ayrılır. Bağlantılı bileşik ikrarda,ikrar edenin ikrarına eklediği vakıa ile ikrar edilen vakıa arasında doğal bir bağlantı vardır.İkrara eklenen vakıa, ikrar olunan vakıanın doğal bir sonucudur.Bağlantısız bileşik ikrarda ise, ikrar edenin ikrarına eklediği vakıa ile ikrar edilen vakıa arasında hiçbir bağlantı yoktur.Yani, ikrara eklenen ikinci vakıa, ikrar edilen vakıa olmadan da mevcuttur. ( Baki Kuru, 5.Baskı, 1990, 2. cilt syf 1401 vd. )
+
+Öğreti ve uygulamada, ağırlıklı olarak, bağlantısız bileşik ikrar dışındaki ikrar türlerinin bölünemeyeceği, dolayısıyla, bağlantısız bileşik ikrar dışındaki ikrar türlerinde ikrar edenin ispat yükü altında olmadığı kabul edilmekte, iddiasını ispatlama yükümlülüğünün, karşı tarafa ait olduğu benimsenmektedir.
+
+Bağlantısız bileşik ikrarın mevcut olduğu bir uyuşmazlıkta; davalı,davacının kendisine parayı gönderdiğini ( maddi vakıayı ) ikrar etmiş; ancak, bu paranın davacı tarafından ileri sürülen payın harici satışı karşılığı değil de başka bir nedenle ( yani önceki pay satışından kaynaklanan başka bir hukuki ilişkiden dolayı ) gönderildiğini savunmuş olması Yargıtay Hukuk Genel Kurulu görüşmeleri sırasında bağlantısız bileşik ikrar olarak nitelendirilmiş olup, burada ikrarın bölünebileceği, davalının davacı tarafından ödenen parayı başka bir nedenle aldığı savunmasını kanıtlaması gerektiği kanaatine varılmıştır.
+http://www.yigitavukatlik.com/banka-havalesi-iade-talebi/

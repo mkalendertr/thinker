@@ -1,0 +1,7 @@
+Katı bir cismin bir ucuna örneğin bir çekiçle vurulduğunda ,temel darbe kuvveti dpğruca çubuğun diğer ucuna aktarılır.Darbenin yönü,aktarılan büyük kuvvetin yönünü tayin eder.Çubuk ne kadar sert yapıda ise , o kadar az kuvvet kaybı olur veya darbe yönünden farklı açıda daha az kuvvet iletimi oluşur.
+Hapsedilmiş bir sıvı sütununun üstüne kuvvet uygulandığında;
+
+
+• bu kuvvet sütunun diğer karşı ucuna aynen aktarıldığı gibi,hiçbir kayba uğramaksızın ,her yönde yanlara ,yukarı ve aşağı doğru eşit olarak aktarılır ve eş yüzeyler arasında dik açılı bir kuvvetle etki yaratır. Bu fiziksel davranış Pascal yasası ile belirlenmiştir. 
+Pascal ın buluşu güç aktarımı ve kuvvet aktarımı için kapalı hacimde hapsedilmiş akışkanların kullanılma yolunu açmıştır.
+http://www.hydrotime.com.tr/b_Hidrolikte_Fiziksel_Prensipler_35_tr.html

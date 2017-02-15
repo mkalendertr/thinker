@@ -1,0 +1,29 @@
+Fareyi bilgisayarı yönetmekte kullanırız.Farede genelde üç tuş bulunur. Farenin sol tuşuyla tek ve çift tıklanabilirken sağ tuşla yalnızca tek tıklanabilir.Ortadaki tuş ise genelde tekerlek biçimindedir.
+
+
+
+
+Farenin işlevleri:
+
+Tek tıklama: Nesneleri (Dosya ve klasörleri) seçmeye yarar.Seçilen nesne farklı bir renk alır.Nesneler üzerinde bir işlem yapmadan önce (Silme, kopyalama, taşıma vb.) o dosyayı seçmemiz gerekir.
+
+ 
+
+Tek tıklama sağ tuş ile yapılırsa üzerine tıklanan nesne ile ilgili mönüye ulaşılır. 
+
+
+ 
+
+Çift tıklama: Dosya ve klasörleri açmaya yarar.Bunun için farenin sol tuşuna üstüste, aralık vermeden iki kez tıklamalıyız.
+
+Sürükleme: Bir nesnenin üzerine farenin sol tuşu ile tek tıklar ve basılı tutarken bir klasörün üzerine bırakırsak, o nesneyi taşımış oluruz.
+Eğer sürükleme farenin sağ tuşu ile yapılırsa karşımıza kopyalama, taşıma ve kısayol oluşturma şeklinde üç seçenek çıkar.
+
+
+ 
+
+
+Farenin tekerlek biçimindeki orta tuşu genelde kaydırma görevini görür.Pencerenin ekran dışına taşan bölümlerini görmek için Kaydırma Çubuklarıyla yaptığımız kaydırma işini, bu tuşla daha kolay yapabiliriz.
+
+NOT:Fare tuşlarının görevleri isteğe göre özelleştirilebilir. 
+http://www.forumalew.org/genelbilgi-ve-ipucu/214657-fare-farenin-islevleri.html

@@ -1,0 +1,13 @@
+Dil fotografindan hastalik teshis eden test gelistirildi Hintli bilim adamlari dildeki degisikliklere göre hastaliklarin anlasilmasini saglayan bir öntani testi gelistirdi. Uzmanlara göre öksürük, ates, vücudun belli bölümlerindeki agrilar, bagirsak hareketleri doktorlarin teshisini kolaylastirabilir.
+Belirtiler ve anlamlari ise söyle;
+
+- Siyaha yakin, renksiz bir dil asiri antibiyotik kullaniminin ya da HIV pozitif hastalarda agiz mantarlarinin artisinin göstergesi
+
+- Uzun çizikli yüzeyler frengi gibi cinsel yolla bulasan hastaliklarin belirtisi
+
+- Eger ülser varsa, bu Crohn's hastaligi ya da ülseratif kolit belirtisi olabilir
+
+- Iri ve dümdüz bir dil ise B12, demir veya folik asit eksikliginden gelismis olabilir
+
+International Journal of Biomedical Engineering and Technology isimli dergide yayinlanan arastirmaya göre bu yeni gelistirilen sistem ile hastanin dil fotografi çekilerek dijital bir analiz yapiliyor ve belirtiler degerlendiriliyor.Test sonuçlarina göre uzmanlar diger semptomlari da degerlendirerek, hastanin soguk alginligi, grip, bronsit, bogaz enfeksiyonu, sinüzit, alerji, astim veya besin zehirlenmesi gibi bir hastaligi olup olmadigini uzaktan anlayabilir. Sistem 14 belirgin hastaligin belirlenmesine yardimci oluyor.
+http://www.hurriyet.com.tr/kelebek/saglik/27733732.asp

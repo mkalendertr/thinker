@@ -1,0 +1,6 @@
+Belirli bir dijital ara yüzünü farklı işlevlerle kullanmak amacıyla bazen sistem açıklarından yararlanabiliyor bazense özel program dili geliştiriliyor. Alda ikinci kategoriye giren bir programlama dili.
+
+Geliştirici Dave Yarwood tarafından ortaya konulan programlama dili, bir metin kutusu üzerinden basitçe beste yapmanıza şans veriyor. Yarwood'un amacı elektronik müzik dalının egemen protokolü olan MIDI'ye yönelik yazılımları kullanmadan besteciler ve yapımcıların beste yapmalarını sağlamak.
+
+Çeşitli nota uzunlukları, geçici değiştirme işareti, çoklu enstrümanlar gibi komutları içeren Alda için basit nota yazımlarında oldukça işlevsel yorumu yapılmış. Programlama dilinin gelecekte tuş değiştirme ve nota tekrarlama gibi özellikleri de sunacağı söyleniyor. Aynı zamanda Sibelius adlı yazılımı geliştiren Yarwood da dilin içeriğini MIDI formatındaki ses kümeleri dışında sample ve ses destekleyecek seviyeye taşımayı hedefliyor.
+http://bigumigu.com/haber/metin-kutusu-uzerinde-beste-yapmanizi-saglayan-programlama-dili/

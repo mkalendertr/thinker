@@ -1,0 +1,26 @@
+Bilgisayar fare ayarları ve imleç değiştirme
+ 05:00:00  10line Teknoloji  0  İpucu
+Fare imlecimi nasıl değiştirebilirim? Bilgisayar mouse ayarlarımı nasıl yaparım? Bilgisayarda kişiselleştirilebilir seçeneklerden bir diğer fare imlecimiz ve onun ayarlarıdır. Bu yazımızda, fare ayarlarımızı nasıl değiştirebileceğimizi ve imlecimizin görünümünü nasıl değiştirebileceğimizi göstereceğiz. Fareyle ilgili bütün ayarlara erişmek için şu yolu takip edin.
+Denetim masasını açın.
+Donanın ve ses kısmına tıklayın.
+Aygıtlar ve yazıcılar kısmından “fare” linkine tıklayın.
+Buradan bütün fare ayarları yapılabilir.
+Fareyle ilgili hangi ayarları yapabiliriz?
+Düğmeler sekmesi...
+Düğme yapılandırma: Sağ tuşun neler yapabileceğini belirlersiniz.
+Çift tıklama hızı: Kişisel kullanımınıza göre çift tıklama hızını değiştirin. Örneğin bu kısmı hızlı yaparsanız çift tıklama fonksiyonunun kullanılması için çok hızlı bir şekilde çift tıklamanız gerekir.
+Tıklama kilidi: Bu kısım sürükleme fonksiyonunun basılı tutma kısmını ortadan kaldırır. Artık bir simgeye tek tıklayarak sürükleyebilirsiniz. Simgeyi bırakmak için bir kez daha tıklayın.
+İşaretçiler sekmesi...
+Düzen: Bu kısımdan fare işaret imlecinin nasıl görüneceğini belirleyin.
+Özelleştir: Bu kısımda imlecin çeşitli işlemler yaparken nasıl görüneceğini belirleyin. Örneğin bir bağlantıya tıklarken imleç el simgesine dönüşür. Bu işlemde imlecin nasıl görüneceğini belirleyebilirsiniz.
+İşaretçi gölgesi: Bu seçeneği işaretlerseniz fare imleciniz gölgeye sahip olur.
+İşaretçi seçenekleri sekmesi...
+Haraket: Buradan fareyi haraket ettirirken ne kadar hızlı olacağını belirleyebilirsiniz. Bu kısımdan yapılacak bir ayarla fare, en az hareketle en çok mesafeyi katedebilir.
+Düşmeye git: Bu seçenek işaretlenirse siteler üzerindeki butonları daha aktif kullanabilirsiniz. Örneğin bir sitede işlem yaparken “ileri” butonu kullanılacaksa imleç direk olarak onun üstüne gider.
+Görünürlük: Fare haraket ederken arkasında iz bırakır. Bu ayar gözünüzü yorabilir. Yazarken işaretçiyi gizle seçeneği ise dikkat dağıtan işaretçiyi gizlemenizi sağlar. İşaretçiyi çok sık kullanmayanlar için ise CTRL tuşuyla işaretçinin yerini bulma özelliği de var. Bu özellikle kod yazarken aktif bir şekilde kullanılan bir özelliktir.
+Tekerlek sekmesi...
+Dikey kaydırma: Bu kısımdan sayfayı aşağı kaydırmak için tekerlerği çevirdiğinizde kaç satır kayacağını belirleyebilirsiniz.
+Yatay kaydırma: Aynı şekilde sayfayı yan tarafya kaydırmak için kaç karakter kayacağını belirleyin. Bu kısım pek kullanılmaz.
+Donanım sekmesi...
+Bu kısımdan farenin sürücü ayarları yapılır. Bilgisayarın faeryi tanıdığı burada görülür. Ayrıca sürücü güncelleştirmeleri ve çeşitli yazılımsal ayarlar yapılır. Bu işlemler bilgisayar tarafından otomatik yapıldığı için sık kullanılmaz.
+http://www.10line.net/2014/09/bilgisayar-fare-ayarlar-ve-imlec.html

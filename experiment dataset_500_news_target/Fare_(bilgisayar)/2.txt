@@ -1,0 +1,12 @@
+Bilgisayar kullanıcılarını fare (mouse) kullanmaktan kurtarmak için üretilen teknolojilerde gelinen son noktada, insan eli, dijital kontrol aletine dönüşüyor.
+
+Bu tür cihazlarda amaç bilgisayarları fareyle tıklamadan ya da ekrana doğrudan dokunmadan kontrol edebilmek. Böylece hem hâlihazırda bilgisayarda yapılan işlemleri kolaylaştırmak, hem de üç boyutlu modeller oluşturma ya da ameliyat sırasında hiçbir şeye dokunmadan hastaların durumunu incelemek mümkün olabiliyor.
+ 
+Kızılötesi ışıkla çalışan ve üç boyutlu bir kullanım alanı sağlayan bu teknolojinin ilk örneklerinden biri, Leap Motion isimli cihaz oldu.
+ 
+Dün piyasaya sürülen ürüne 69.99 dolara sahip olan kullanıcılar, bundan böyle, ellerini ve parmaklarını havada hareket ettirerek herhangi bir bilgisayara komut verebilecek.
+ 
+Bir paket sakız boyutundaki cihazı kullananlar, bilgisayarda zoom ve yön komutlarını gerçekleştirebilecek, ayrıca, hem yazı yazılabilecek hem de resim çizebilecek.
+ 
+Microsoft'un da Windows PC'ler için bu yıl piyasaya sürdüğü Kinect isimli benzer bir ürünü var. Kinect, kullanıcının tüm bedeninin hareketlerini algılayabiliyor. Ancak şirketten yapılan açıklamada, yeni yazılımla Kinect'in kafa, boyun ve kol gibi spesifik eklemlerin hareketlerini de algılar hale geleceği ifade edildi.
+http://www.hurriyet.com.tr/planet/20603570.asp

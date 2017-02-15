@@ -1,0 +1,12 @@
+Bir önceki yazımızda Linux'un sektördeki öneminden bahsetmiştik. Bu yazımızda temel Linux komutlarından bahsedecek sonrasında ise ileri düzey komutlara geçeceğiz.
+Temel Linux Komutları
+İnternette bir arama ile birçok yerde bulabileceğiniz Linux komutlarının en sık kullanılanlarını derledik ve sizler için sunduk.
+
+pwd
+O an terminali açtığınızda, hangi dizinde olduğunuzu gösterir.
+
+history
+Sistemde daha önce verilen komutların listesini çıkartır.
+
+Top sistemde o an çalışmakta olan uygulamaları verir.
+http://shiftdelete.net/temel-linux-komutlari-47991

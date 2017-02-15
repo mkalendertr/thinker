@@ -1,0 +1,14 @@
+FORTRAN: Zorunlu(imperative) bir dil olan Fortran, yaratıcısı ve ekibinin tanımıyla, üst düzey programlama dilleri gibi kolay yazılabilen ve makine kodunda yazılmış gibi hızlı çalışan bir programlama dilidir. Resmi olarak ilk söz dizimi bu dilde yapılmıştır.
+
+ALGOL: Zorunlu bir dil olan Algol esasen evrensel bir dil yazma amacı ile ortaya çıkmıştır; ancak beklenen ilgiyi görmemiştir. Buna karşın BNF formatının çıkması, ayrıştırma teorisinin şekillenmesi, derleyici tasarımı gibi alanlarda yapılan çalışmalarda bilim alanına önemli katkıda bulunmuş ve birçok dile kaynak olmuştur.
+
+PL/I: Zorunlu bir dil olan PL/I sayısal hesaplamaları, özyinelemeyi, yapısal programlamayı, bağlı veri yapılarını destekler.
+
+BASIC: Zorunlu bir dil olan Basic kolay öğrenilebilirliği ile bilim ile uğraşmayan; ancak hesaplamaya ihtiyacı olan kişilere yönelik ortaya çıkmıştır.
+
+APL:Zorunlu bir dil olan APL, sayısal işlemler üzerinde çalışmak için üretilmiş bir dil olup matris işlemleri denildiğinde ilk akla gelen ve en çok kullanılan dildir.
+
+PASCAL Zorunlu bir dil olan Pascal, yapısal programlamayı destekler. Geliştirilme amacı öğretim olduğu için basit ve kolay anlaşılır bir şekilde tasarlanmıştır.
+
+ADA: Zorunlu bir dil olan ADA veri soyutlama, istisna işleme, özel programlama birimlerinin eş zamanlı çalışması gibi olanaklar sağlar.
+http://e-bergi.com/y/Dil-ve-Paradigmalarin-Kullanim-Alanlari

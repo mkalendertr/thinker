@@ -1,0 +1,210 @@
+animal	1
+concept	2
+creative work	3
+event	4
+location	5
+object	6
+organization	7
+person	8
+physical object	9
+structure	10
+abd eyalet	11
+ada	12
+albüm	13
+almanya yerleşim yeri	14
+amfibi	15
+anatomi	16
+antlaşma	17
+arma	18
+asker	19
+askeri birim	20
+askeri yapı	21
+ateşli silah	22
+avrupa yakası karakteri	23
+azerbaycan rayon	24
+bakteri	25
+balık	26
+baraj	27
+basketbol	28
+basketbol kulübü	29
+basketbol ligi	30
+basketbolcu	31
+bayrak	32
+bayram	33
+bilim adamı	34
+bisikletçi	35
+bitki	36
+biyoloji	37
+bm	38
+böcek	39
+bulgaristan il	40
+buz patencisi	41
+cadde	42
+cep telefonu	43
+çin eyalet	44
+çizgi roman karakteri	45
+dağ	46
+deprem	47
+dergi	48
+dil	49
+dil ailesi	50
+dini yapı	51
+dizi	52
+doctor who bölüm	53
+doctor who karakteri	54
+edebiyat	55
+eski idari bölüm	56
+eski ülke	57
+etnik grup	58
+eurovision	59
+fakülte	60
+festival	61
+film	62
+filozof	63
+fizik	64
+futbol kulübü	65
+futbol kulübü sezonu	66
+futbol ligi	67
+futbol ligi sezonu	68
+futbol maçı	69
+futbol turnuvası	70
+futbolcu	71
+galaksi	72
+gazete	73
+gemi	74
+göl	75
+güneşdışı gezegen	76
+güreşçi	77
+hakem	78
+hanedan	79
+harf	80
+harry potter karakteri	81
+hastalık	82
+havalimanı	83
+havayolları	84
+hazır gıda	85
+hükümdar	86
+hükümet kurumu	87
+il	88
+ilçe	89
+insan	90
+iran  köy	91
+islam	92
+işletim sistemi	93
+italya belde	94
+italya il	95
+italya komün	96
+kanton	97
+karakter	98
+kimya	99
+kişi	100
+kitap	101
+konser turnesi	102
+köpek ırkı	103
+köprü	104
+koruma alanı	105
+kral tv vmö	106
+kraliyet	107
+kurgusal karakter	108
+kuruluş	109
+kuş	110
+lost	111
+lost karakteri	112
+makam sahibi	113
+manken	114
+marş	115
+matematik	116
+memeli	117
+milli futbol cemiyeti	118
+millî futbol takımı	119
+mimar	120
+mitoloji	121
+müze	122
+müzik	123
+müzik grubu	124
+müzik sanatçısı	125
+müzik türü	126
+nba draft	127
+nba takımı	128
+nehir	129
+ödül	130
+okul	131
+olimpiyatlar	132
+olimpiyatlarda etkinlik	133
+opera	134
+örümcek	135
+otomobil	136
+öykü	137
+oyun	138
+oyuncu	139
+para	140
+parlamento	141
+plak şirketi	142
+porno yıldızı	143
+portekiz belediye	144
+portekiz bucak	145
+primat	146
+prison break bölümü	147
+programlama dili	148
+radyo istasyonu	149
+renk	150
+roman	151
+rusya federasyonu idari birimi	152
+sanat eseri	153
+sanatçı	154
+sanatçı diskografisi	155
+şarkı	156
+savaş	157
+sayı	158
+seçim	159
+şehir	160
+seri	161
+silahlı kuvvet	162
+simpsonlar bölümü	163
+single	164
+şirket	165
+sivil toplum kuruluşu	166
+sivillere karşı saldırı	167
+siyasi makam	168
+siyasi parti	169
+spor derbisi	170
+spor ligi	171
+sporcu	172
+stadyum	173
+sunucu	174
+sure	175
+sürüngen	176
+takımyıldız	177
+tekli	178
+telekomünikasyon şirketi	179
+televizyon	180
+televizyon sezonu	181
+tenis sporcu	182
+tiyatro oyunu	183
+türkiye	184
+türkiye belde	185
+türkiye il	186
+türkiye ilçe	187
+türkiye köy	188
+türkiye mahalle	189
+tv bölüm	190
+tv kanalı	191
+uçak	192
+ukrayna idari birimi	193
+ülke	194
+uluslararası futbol turnuvası	195
+üniversite	196
+uydu	197
+uzay aracı	198
+video oyunu	199
+voleybol kulübü	200
+voleybolcu	201
+website	202
+yapı	203
+yazar	204
+yazılım	205
+yerleşim	206
+yılan	207
+yıldız savaşları karakteri	208
+yol	209
+yüksek yapı	210

@@ -1,0 +1,63 @@
+Küresel Aynalar
+Yansıtıcı yüzeyi küre parçası olan aynalara denir. Küresel aynalar iki şekilde incelenir. Yansıtıcı yüzeyi, küre parçasının iç yüzeyi ise çukur ayna ya da içbükey ayna (konveks ayna ) denir. Eğer yansıtıcı yüzeyi  küre parçasının dış yüzeyi ise tümsek ayna ya da dış bükey ayna ( konkav ayna ) denir.
+
+ÇUKUR AYNA
+
+Yansıtıcı yüzeyi, küre parçasının iç yüzeyi ise çukur ayna ya da içbükey ayna ( konveks ayna ) denir. Çukur aynaların toplayıcı özelliği vardır. Bu aynalar güneş ışınlarına dik tutulursa, ışınlar yansıdıktan sonra bir noktada kesişirler. Bu noktaya aynanın odak noktası denir ve F ile gösterilir.
+
+o1
+
+Aynanın merkezi M ile gösterilir ve aynı zamanda aynanın yarıçapına eşittir.
+
+o2
+
+ M=r=2FM=r=2F
+
+F=M2F=M2
+
+Çukur aynada özel ışınlar:
+
+ o3
+
+Çukur aynaya paralel gelenler ışınlar odaktan geçecek şekilde yansır. Aynı zamanda odaktan gelen ışınlar da paralel yansır.
+
+ o4
+
+Çukur aynaya 3F noktasını keserek gelen ışın 1,5 F‘den geçecek şekilde yansır. Aynı zamanda 1,5 F den gelen ışında 3F' den geçecek şekilde yansır.
+
+ o5
+
+Çukur aynaya merkezden ( 2F ) gelen ışınlar kendi üzerinden geri yansır.
+
+ o6
+
+Çukur aynanın tepe noktasına gelen ışın asal eksenle eşit açı yapacak şekilde yansır.
+
+o7
+
+Çukur aynaya 0,5F‘den gelen ışınlar  F‘den geçecek şekilde yansır.
+
+ o8
+
+Çukur aynaya rastgele gelen bir ışın aynanın normali olan merkezden gelen çizgiyle eşit açıyla yapacak şekilde yansır.
+
+Yardımcı odak yardımıyla yansıyan ışının çizilmesi;
+
+Aynaya paralel gelen ışın demeti asal eksene paralel değilse de yansıyan ışınların kendileri ya da uzantıları asal eksen üzerinde bulunmayan bir noktadan geçer bu noktaya Yardımcı odak denir.
+
+Yansıyan ışını çizmek için;
+
+Merkezden geçen ve gelen ışına paralel olan yardımcı bir eksen çizilir.
+Asal eksene dik olan ve odaktan geçen odak düzlemi çizilir.
+İki eksenin kesiştiği nokta yardımcı odaktır ve yansıyan ışın bu noktadan geçer.
+ o9
+
+Çukur aynada görüntü
+
+Bir cismin aynadaki görüntüsünü çizme için, cisimden aynaya en az iki ışın gönderilir. Bu ışınların yansıdıktan sonra kesiştikleri yerde görüntü oluşur. Eğer yansıyan ışınların kendisi kesişiyorsa görüntü gerçek, yansıyan ışınların kendisi değilde uzantısı kesişiyorsa görüntü sanaldır.
+
+Sonsuzdaki bir cismin çukur aynada görüntüsü aynanın odağındadır ve görüntü noktasaldır.
+ o10
+
+Çukur aynada 3F noktasında bulunan bir cismin, 1.5 F ‘de gerçek ve ters görüntüsü oluşur. Boyu ise kendi boyunun yarısıdır.
+http://www.fizik.net.tr/site/kuresel-aynalar/

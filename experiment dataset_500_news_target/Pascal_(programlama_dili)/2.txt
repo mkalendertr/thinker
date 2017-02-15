@@ -1,0 +1,8 @@
+Pascal programlama dili, bilgisayar bilimcisi Niklaus Wirth tarafından 1970 te yapısal programlamayı derleyiciler için çok daha kolay hale getirmek amacıyla geliştirilen, bir çok öğrenciye bilgisayar programlamayı öğreten ve çeşitli versiyonları bugün hala yaygın olarak kullanılmaya devam eden önemli programlama dillerinden biridir. Adını matematikçi ve düşünür Blaise Pascal'dan alan Pascal, Algol programlama dilinden türemiştir.
+
+Pascal'da tüm programlar Program anahtar sözcüğü ile başlar, ve ardından Begin / End anahtar sözcükleri ile sınırlanan bir blok gelir. Pascal dilinde harflerin büyüklüğü-küçüklüğü önemli değildir. İfadeler noktalı virgül ile ayrılır, ve programlar bir nokta ile bitirilir. Bazı derleyiciler için Program satırı zorunlu değildir.
+
+Orijinal halinde Pascal, tümüyle prosedürel bir dildir ve programlar if, while, for ve benzeri yapılardan oluşur.
+
+Pascal ve C dilleri yaklaşık aynı zamanlarda geliştirilmişlerdir ve aralarında önemli benzerlikler vardır. Orijinal Pascal ile C'nin ikisi de yapısal programlama fikrini gerçekleştiren küçük ve prosedürel dillerdir. İkisinde de dinamik bellek ayırma ve işaretçi işleme mümkündür. Ancak, bu iki dil dışarıdan bakıldığında farklı görünürler.
+http://www.robotiksistem.com/programlama_dilleri_ozellikleri.html

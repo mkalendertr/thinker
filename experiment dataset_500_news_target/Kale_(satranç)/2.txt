@@ -1,0 +1,3 @@
+Satranç Kuralları - Bugün oynanan şekli günümüzden 1400 yıl öncesine kadar uzanan satranç, iki kişilik bir sıtrateji oyunudur. 16 şar taşla , 8x8 64 kareden oluşan bir tahta üzerinde oynanır. Amaç karşı tarafın şahını ele geçirmektir. Rakibin şahını alan oyuncu oyunu kazanır.
+Kale - Sağa-sola ve ileri-geri olmak üzere düz bir hatta , istediği sayıda kare boyunca ilerleyebilir. İlerleyebilmesi için önünde başka bir taş olmaması gerekir veya önüne çıkan taşı yiyebilir. İki adettir.
+http://yazarlikyazilimi.meb.gov.tr/Materyal/bolu/Kasim2008/satranc/hareket.html

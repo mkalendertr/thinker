@@ -1,0 +1,4 @@
+Bu saatin bir akrep ve yelkovanı var. Akrep saati, yelkovan ise dakikayı gösterir. Akrebin bir turu 12 saattir ve 1 gün içinde akrep, 2 tam tur atar. Yelkovanın bir tur dönmesi 60 dakikadır. Yani 60 dakika 1 saattir.
+
+Bu interaktif etkinlik, öğrencilerden dijital saatte gösterilen zamanın, akrep ve yelkovanın doğru yerlere getirilerek  gösterilmesi beklenen bir uygulama içermektedir.
+http://www.vitaminegitim.com/ilkokul/detay/saati-akrep-ve-yelkovan-ile-gosterelim?i=20040304UE01

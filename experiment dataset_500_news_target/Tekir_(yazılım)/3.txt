@@ -1,0 +1,13 @@
+Tekir Ön Muhasebe ve Ticari Otomasyon ile ilgili son gelişmeleri takip edebileceğiniz, sorularınıza yanıt alabileceğiniz, geliştirici ya da kullanıcıların blog girdilerini izleyebileceğiniz ve Tekir'i indirebileceğiniz yeni topluluk sitesi yayında.
+
+Tekir'in yeni topluluk sitesinde, Pardus'un topluluk sitesi Özgürlükİçin.com'da kullanılan Django web geliştirme çatısı kullanılıyor.
+
+
+Tekir topluluk sitesi beş ana bölümden oluşuyor. Bunlar:
+
+* Kurumsal destek: Kurumsal müşterilere özel bu bölümde, profesyonel destek paketleri ve üst seviye yardım içeriklerine ulaşılacak.
+* Belgeler: Nasıl belgeleri, kurulum belgeleri ve Tekir ile ilgili sık sorulan sorular, bu bölümde yer alıyor.
+* Haberler: Tekir ile ilgili son gelişmeleri takip edebilirsiniz.
+* Topluluk: Tekir kullanıcıların kendi aralarında yardımlaşması ve bilgi paylaşımı için kurulan forum; kullanıcı ve geliştiricilerin bloglarını izleyebileceğiniz gezegen; hata bildirimi yapabileceğiniz hata bildirim sistemi; Tekir e-posta listelerine üye olup takip edebileceğiniz e-posta listesi bölümlerinden oluşuyor.
+* İndir: Tekir Ticari Otomasyon ve Ön Muhasebe yazılımını indirebilirsiniz.
+http://www.pcnet.com.tr/yazilim/yazilim-haberleri/tekir-topluluk-sitesini-duyurdu/
