@@ -22,7 +22,7 @@ public class PI3 {
 					.createRequestFactory();
 			JSONParser parser = new JSONParser();
 			GenericUrl url = new GenericUrl(
-					"/haberturk/"
+					"http://12.133.183.155:8081/PI-3/api/restful/search/haberturk/"
 							+ "\"" + query + "\"");
 			url.put("format", "json");
 

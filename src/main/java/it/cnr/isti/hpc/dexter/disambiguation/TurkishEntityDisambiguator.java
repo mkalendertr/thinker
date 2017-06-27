@@ -66,6 +66,7 @@ import com.google.gson.GsonBuilder;
 
 import edu.yeditepe.deep.AveragePooling;
 import edu.yeditepe.deep.DescriptionEmbeddingAverage;
+import edu.yeditepe.experiment.RankLib;
 import edu.yeditepe.model.EntityPage;
 import edu.yeditepe.model.EntityScores;
 import edu.yeditepe.nlp.TurkishNLP;
@@ -99,6 +100,8 @@ public class TurkishEntityDisambiguator implements Disambiguator {
 	public static boolean printCandidateEntities = false;
 
 	public static boolean annotateEntities = false;
+
+	public static boolean ranklib = false;
 
 	public static String candidateEntitiesFileName = "";
 
@@ -686,6 +689,9 @@ public class TurkishEntityDisambiguator implements Disambiguator {
 					+ e.getWordvecLinksScore() * word2vecLinksWeight
 					+ e.getLinkScore() * linkWeight
 					+ e.getTypeClassifierkScore() * typeClassifierkWeight;
+			if (ranklib == true) {
+				totalScore = RankLib.getInstance().score(e);
+			}
 
 			if (em.getEntity().getPage().getUrlTitle().contains("(")) {
 				totalScore /= 2;

@@ -1,5 +1,6 @@
 package edu.yeditepe.experiment;
 
+import it.cnr.isti.hpc.dexter.disambiguation.TurkishEntityDisambiguator;
 import it.cnr.isti.hpc.dexter.entity.EntityMatch;
 import it.cnr.isti.hpc.dexter.entity.EntityMatchList;
 
@@ -136,7 +137,7 @@ public class ParameterOptimization extends AbstractProblem {
 		double[] x = EncodingUtils.getReal(solution);
 		double[] f = new double[numberOfObjectives];
 
-		double threshold = x[0] * 5;
+		double threshold = 0;
 		double nameWeight = x[1];
 		double suffixWeight = x[2];
 		double letterCaseWeight = x[3];
@@ -216,6 +217,9 @@ public class ParameterOptimization extends AbstractProblem {
 									* word2vecLinksWeight + e.getLinkScore()
 									* linkWeight + e.getTypeClassifierkScore()
 									* typeClassifierkWeight + wikiWeight;
+							if (TurkishEntityDisambiguator.ranklib) {
+								totalScore = RankLib.getInstance().score(e);
+							}
 
 							if (totalScore >= maxScore) {
 

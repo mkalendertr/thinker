@@ -8,12 +8,15 @@ import it.cnr.isti.hpc.dexter.util.DexterLocalParams;
 import it.cnr.isti.hpc.text.Token;
 
 import java.io.BufferedReader;
+import java.io.BufferedWriter;
 import java.io.File;
 import java.io.FileInputStream;
+import java.io.FileOutputStream;
 import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.io.InputStreamReader;
+import java.io.OutputStreamWriter;
 import java.io.Reader;
 import java.io.Writer;
 import java.util.ArrayList;
@@ -258,7 +261,62 @@ public class ExperimentExamplesValidation {
 		performExperiment(examples);
 	}
 
+	public static String getFeaturesRanklib(EntityScores sc) {
+		String features = "";
+		features += "\t1:" + sc.getLinkScore();
+		features += "\t2:" + sc.getHashInfoboxScore();
+		features += "\t3:" + sc.getWordvecLinksScore();
+		features += "\t4:" + sc.getTypeContentScore();
+		features += "\t5:" + sc.getTypeScore();
+		features += "\t6:" + sc.getSimpleLeskScore();
+		features += "\t7:" + sc.getTypeClassifierkScore();
+		features += "\t8:" + sc.getNameScore();
+		features += "\t9:" + sc.getHashDescriptionScore();
+		features += "\t10:" + sc.getWordvecDescriptionLocalScore();
+		features += "\t11:" + sc.getSuffixScore();
+		features += "\t12:" + sc.getLeskScore();
+		features += "\t13:" + sc.getWordvecDescriptionScore();
+		features += "\t14:" + sc.getLetterCaseScore();
+
+		return features;
+	}
+
+	public static void writeFeaturesRanklib(String correctId, int qid,
+			Writer writer, Map<String, EntityScores> entityScoreMap,
+			EntityMatchList entityMatchList) {
+		Set<String> set = annotationIndex.get(correctId);
+		for (int i = 0; i < entityMatchList.size(); i++) {
+			try {
+				String features = getFeaturesRanklib(entityScoreMap
+						.get(entityMatchList.get(i).getId()));
+				if (set.contains(entityMatchList.get(i).getId())) {
+					features = "1\tqid:" + qid + features + "\n";
+
+				} else {
+					features = "0\tqid:" + qid + features + "\n";
+
+				}
+
+				writer.write(features);
+			} catch (Exception e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			}
+		}
+
+	}
+
 	public static void performExperiment(Map<String, List<String>> examples) {
+		Writer writer = null;
+
+		try {
+			writer = new BufferedWriter(new OutputStreamWriter(
+					new FileOutputStream("ranklib_target_features.txt"),
+					"utf-8"));
+		} catch (IOException ex) {
+			// report
+		}
+
 		String loop = Property.getInstance().get("experiment.loop");
 		int correct = 0;
 		int incorrect = 0;
@@ -273,6 +331,9 @@ public class ExperimentExamplesValidation {
 			List<String> l = examples.get(correctId);
 			for (String text : l) {
 				System.out.println("Experiment num " + counter++);
+				// if (counter > 10) {
+				// break;
+				// }
 				LOGGER.info("Experiment num " + counter);
 				try {
 					DexterLocalParams params = new DexterLocalParams();
@@ -308,6 +369,10 @@ public class ExperimentExamplesValidation {
 							undetected++;
 							System.out.println(correctId + "\t" + text);
 						} else {
+							writeFeaturesRanklib(correctId, counter, writer,
+									entityScoreMap, entityScores
+											.getEntityMatch().getSpot()
+											.getEntities());
 							String selected = entityScores.getEntityMatch()
 									.getSpot().getEntities().get(0).getId();
 							if (entityScores.getEntityMatch().getSpot()
@@ -348,6 +413,12 @@ public class ExperimentExamplesValidation {
 				}
 			}
 
+		}
+		try {
+			writer.close();
+		} catch (IOException e1) {
+			// TODO Auto-generated catch block
+			e1.printStackTrace();
 		}
 		for (String string : correctList) {
 			System.out.println(string);
@@ -746,7 +817,7 @@ public class ExperimentExamplesValidation {
 					ParameterOptimization.setTesting(test);
 					result = new Executor()
 							.withProblemClass(ParameterOptimization.class)
-							.withAlgorithm("NSGAII").withMaxEvaluations(2001)
+							.withAlgorithm("NSGAII").withMaxEvaluations(1)
 							.run();
 
 					for (Solution solution : result) {

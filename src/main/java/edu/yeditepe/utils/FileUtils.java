@@ -43,6 +43,29 @@ public class FileUtils {
 		return null;
 	}
 
+	public static String readFileString(String filename) {
+		String text = "";
+
+		try {
+			FileInputStream fstream = new FileInputStream(filename);
+			BufferedReader br = new BufferedReader(new InputStreamReader(
+					fstream));
+			String strLine;
+			while ((strLine = br.readLine()) != null) {
+				// // Print the content on the console
+				// System.out.println(strLine);
+				text += strLine + "\n";
+			}
+
+			// Close the input stream
+			br.close();
+			return text;
+		} catch (Exception e) {
+			// TODO: handle exception
+		}
+		return text;
+	}
+
 	public static Set<String> readFileSet(String filename) {
 		try {
 			Set<String> lines = new TreeSet<String>();
