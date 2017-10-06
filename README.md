@@ -2,8 +2,6 @@
 
 THINKER is a novel entity linking system (semantic tagging or annotation) for Turkish language that automatically maps entity mentions in  a  text  content  to  the  corresponding  real  world  entities defined in Vikipedi or the Turkish dictionary published by Turkish  Language  Association  (TLA). 
 
-A simple demo of the system is running at this [address](http://ec2-54-245-18-29.us-west-2.compute.amazonaws.com/). The REST-api is available at: http://ec2-54-245-18-29.us-west-2.compute.amazonaws.com/api/rest/. Sample linking request - http://ec2-54-245-18-29.us-west-2.compute.amazonaws.com/api/rest/annotate?myspotter=false&text=Yeditepe%20%C3%9Cniversitesi%20bir%20vak%C4%B1f%20universitedir.
-
 Besides source codes of the project, we publish taxonomy represented for entity discovery, pre-trained entity vectors and experiment data sets:
   - [Turkish_Entity_Linking_Dataset](https://drive.google.com/file/d/0B44czttSzeAAWjNJbGpNVnd6Ukc3aklFNzFfS3BCY3BYSENF/view?usp=sharing); The dataset contains approximately 5 news articles for 112 different meanings from online news papers covering a variety of Turkish ambiguous phases such as pas, petrol, etc.. 
   - [Vikipedi_Entity_Vectors](https://drive.google.com/file/d/0B44czttSzeAATWt6VTB0eVdjU2s/view?usp=sharing): The archive contains two separate json files. Metadata Vectors: Entity vectors trained on category, type and infobox information of Vikipedi articles. The model is distributed in 300-dimensional vectors. Link Vectors: Entity vectors trained on link information of Vikipedi articles. The model is distributed in 150-dimensional vectors.
