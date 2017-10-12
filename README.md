@@ -28,7 +28,6 @@ Bibtex format:
 	  journal={IEEE Transactions on Knowledge and Data Engineering},
 	  title={THINKER - Entity Linking System for Turkish Language},
 	  year={2017},
-	  year      = {2013},
 	  volume={PP}, 
 	  number={99}, 
 	  pages={1-1}, 
