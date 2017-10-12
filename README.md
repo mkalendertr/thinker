@@ -3,11 +3,11 @@
 THINKER is a novel entity linking system (semantic tagging or annotation) for Turkish language that automatically maps entity mentions in  a  text  content  to  the  corresponding  real  world  entities defined in Vikipedi or the Turkish dictionary published by Turkish  Language  Association  (TLA). 
 
 A simple demo of the system is running at this
-[address](ec2-54-187-58-116.us-west-2.compute.amazonaws.com).
+[address](http://ec2-54-187-58-116.us-west-2.compute.amazonaws.com).
 The REST-api is available at:
-ec2-54-187-58-116.us-west-2.compute.amazonaws.com/api/rest/.
+http://ec2-54-187-58-116.us-west-2.compute.amazonaws.com/api/rest/.
 Sample linking request -
-ec2-54-187-58-116.us-west-2.compute.amazonaws.com/api/rest/annotate?myspotter=false&text=Yeditepe%20%C3%9Cniversitesi%20bir%20vak%C4%B1f%20universitedir.
+http://ec2-54-187-58-116.us-west-2.compute.amazonaws.com/api/rest/annotate?myspotter=false&text=Yeditepe%20%C3%9Cniversitesi%20bir%20vak%C4%B1f%20universitedir.
 
 You can also download the binary distribution from this [address](https://drive.google.com/file/d/0ByNllFoe5H6ZenZnRFJuaXdGVVk/view?usp=sharing).
 
