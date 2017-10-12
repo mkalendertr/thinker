@@ -23,24 +23,19 @@ doi: https://doi.org/10.1109/TKDE.2017.2761743
 
 Bibtex format:
 
-	@inproceedings{DBLP:conf/cikm/CeccarelliLOPT13a,
-	  author    = {Diego Ceccarelli and
-	               Claudio Lucchese and
-	               Salvatore Orlando and
-	               Raffaele Perego and
-	               Salvatore Trani},
-	  title     = {Dexter: an open source framework for entity linking},
-	  booktitle = {ESAIR'13, Proceedings of the Sixth International Workshop on Exploiting
-	               Semantic Annotations in Information Retrieval, co-located with {CIKM}
-	               2013, San Francisco, CA, USA, October 28, 2013},
-	  pages     = {17--20},
+	@ARTICLE{8063926,
+	  author={M. Kalender and E. E. Korkmaz}, 
+	  journal={IEEE Transactions on Knowledge and Data Engineering},
+	  title={THINKER - Entity Linking System for Turkish Language},
+	  year={2017},
 	  year      = {2013},
-	  crossref  = {DBLP:conf/cikm/2013esair},
-	  url       = {http://doi.acm.org/10.1145/2513204.2513212},
-	  doi       = {10.1145/2513204.2513212},
-	  timestamp = {Thu, 15 May 2014 15:51:38 +0200},
-	  biburl    = {http://dblp.uni-trier.de/rec/bib/conf/cikm/CeccarelliLOPT13a},
-	  bibsource = {dblp computer science bibliography, http://dblp.org}
+	  volume={PP}, 
+	  number={99}, 
+	  pages={1-1}, 
+	  keywords={Electronic publishing;Encyclopedias;Internet;Knowledge based systems;Neural networks;Entity linking;deep neural networks;embeddings;entity disambiguation;knowledge base}, 
+	  doi={10.1109/TKDE.2017.2761743},
+	  ISSN={1041-4347}, 
+	  month={}
 	}
 
 ## Experimental Datasets
