@@ -18,7 +18,7 @@ If you use the Thinker framework, you must cite:
 > M. Kalender and E. E. Korkmaz.
 > THINKER - Entity Linking System for Turkish Language.
 > *IEEE Transactions on Knowledge and Data Engineering, vol. PP, no. 99, pp. 1-1.* 
-doi: 10.1109/TKDE.2017.2761743
+doi: https://doi.org/10.1109/TKDE.2017.2761743
 
 
 Bibtex format:
