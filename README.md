@@ -2,6 +2,48 @@
 
 THINKER is a novel entity linking system (semantic tagging or annotation) for Turkish language that automatically maps entity mentions in  a  text  content  to  the  corresponding  real  world  entities defined in Vikipedi or the Turkish dictionary published by Turkish  Language  Association  (TLA). 
 
+A simple demo of the system is running at this
+[address](http://ec2-54-245-18-29.us-west-2.compute.amazonaws.com/).
+The REST-api is available at:
+http://ec2-54-245-18-29.us-west-2.compute.amazonaws.com/api/rest/.
+Sample linking request -
+http://ec2-54-245-18-29.us-west-2.compute.amazonaws.com/api/rest/annotate?myspotter=false&text=Yeditepe%20%C3%9Cniversitesi%20bir%20vak%C4%B1f%20universitedir.
+
+You can also download the binary distribution from this [address](https://drive.google.com/file/d/0ByNllFoe5H6ZenZnRFJuaXdGVVk/view?usp=sharing).
+
+## Citation
+
+If you use the Thinker framework, you must cite:
+
+> M. Kalender and E. E. Korkmaz.
+> THINKER - Entity Linking System for Turkish Language.
+> *IEEE Transactions on Knowledge and Data Engineering, vol. PP, no. 99, pp. 1-1.* 
+doi: 10.1109/TKDE.2017.2761743
+
+
+Bibtex format:
+
+	@inproceedings{DBLP:conf/cikm/CeccarelliLOPT13a,
+	  author    = {Diego Ceccarelli and
+	               Claudio Lucchese and
+	               Salvatore Orlando and
+	               Raffaele Perego and
+	               Salvatore Trani},
+	  title     = {Dexter: an open source framework for entity linking},
+	  booktitle = {ESAIR'13, Proceedings of the Sixth International Workshop on Exploiting
+	               Semantic Annotations in Information Retrieval, co-located with {CIKM}
+	               2013, San Francisco, CA, USA, October 28, 2013},
+	  pages     = {17--20},
+	  year      = {2013},
+	  crossref  = {DBLP:conf/cikm/2013esair},
+	  url       = {http://doi.acm.org/10.1145/2513204.2513212},
+	  doi       = {10.1145/2513204.2513212},
+	  timestamp = {Thu, 15 May 2014 15:51:38 +0200},
+	  biburl    = {http://dblp.uni-trier.de/rec/bib/conf/cikm/CeccarelliLOPT13a},
+	  bibsource = {dblp computer science bibliography, http://dblp.org}
+	}
+
+## Experimental Datasets
 Besides source codes of the project, we publish taxonomy represented for entity discovery, pre-trained entity vectors and experiment data sets:
   - [Turkish_Entity_Linking_Dataset](https://drive.google.com/file/d/0B44czttSzeAAWjNJbGpNVnd6Ukc3aklFNzFfS3BCY3BYSENF/view?usp=sharing); The dataset contains approximately 5 news articles for 112 different meanings from online news papers covering a variety of Turkish ambiguous phases such as pas, petrol, etc.. 
   - [Vikipedi_Entity_Vectors](https://drive.google.com/file/d/0B44czttSzeAATWt6VTB0eVdjU2s/view?usp=sharing): The archive contains two separate json files. Metadata Vectors: Entity vectors trained on category, type and infobox information of Vikipedi articles. The model is distributed in 300-dimensional vectors. Link Vectors: Entity vectors trained on link information of Vikipedi articles. The model is distributed in 150-dimensional vectors.
