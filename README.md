@@ -17,7 +17,7 @@ If you use the Thinker framework, you must cite:
 
 > M. Kalender and E. E. Korkmaz.
 > THINKER - Entity Linking System for Turkish Language.
-> *IEEE Transactions on Knowledge and Data Engineering, vol. PP, no. 99, pp. 1-1.* 
+> *IEEE Transactions on Knowledge and Data Engineering, vol. 30, no. 2, pp. 367-380, Feb. 1 2018* 
 doi: https://doi.org/10.1109/TKDE.2017.2761743
 
 
@@ -27,14 +27,14 @@ Bibtex format:
 	  author={M. Kalender and E. E. Korkmaz}, 
 	  journal={IEEE Transactions on Knowledge and Data Engineering},
 	  title={THINKER - Entity Linking System for Turkish Language},
-	  year={2017},
-	  volume={PP}, 
-	  number={99}, 
-	  pages={1-1}, 
+	  year={2018},
+	  volume={30}, 
+	  number={2}, 
+	  pages={367-380}, 
 	  keywords={Electronic publishing;Encyclopedias;Internet;Knowledge based systems;Neural networks;Entity linking;deep neural networks;embeddings;entity disambiguation;knowledge base}, 
 	  doi={10.1109/TKDE.2017.2761743},
 	  ISSN={1041-4347}, 
-	  month={}
+	  month={Feb}
 	}
 
 ## Experimental Datasets
